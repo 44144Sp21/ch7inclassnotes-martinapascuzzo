@@ -79,6 +79,7 @@ aside h3 {padding-bottom: 2px;
 .news {font-size: 0.80em;
 	   margin: 10px;
 }
+/* Tablet Screen */
 @media only screen and (max-width: 1042px) {
 	main {margin: 0px;}
 	body {margin: 0px;}
